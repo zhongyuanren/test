@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.ipa</string>
+					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/cl.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/cl.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.justep.x5.demo</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>1.3.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>X5 App download</string>
+				<string>安通 App download</string>
 			</dict>
 		</dict>
 	</array>
