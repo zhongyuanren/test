@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/cl.png</string>
+					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/at.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/cl.png</string>
+					<string>http://121.42.194.43:8080/x5/UI2/v_/nbgl/img/at.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
